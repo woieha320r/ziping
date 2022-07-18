@@ -21,7 +21,7 @@ import java.util.Objects;
  * <p>
  * 甲子历的年月日时都使用轮转的六十甲子来记录。
  * 每两小时，换时辰。每逢子时，换日。每逢交节，欢悦。每逢立春，换年。
- * TODO: 比较和公式换算的优缺点，是否改用公式换算（baike.baidu.com/item/干支历/9386578#7）
+ * TODO: 比较和公式换算的优缺点，是否改用公式换算（baike.baidu.com/item/干支历/9386578#7）。现只支持北京时间
  */
 @Data
 @AllArgsConstructor
